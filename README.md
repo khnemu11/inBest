@@ -249,19 +249,17 @@ public User extends RootDTO{
 
 ### 📌아키텍처 설계
 
-![아키텍처도](https://github.com/Jeongseulho/INBEST_README/assets/110578739/8b774bdb-b7db-4eb0-9672-d16b2e3fc9b9)
+![inbest 아키텍처](https://github.com/khnemu11/InBest/assets/37679352/1baeec13-a76d-4725-bbcb-cbf9626f8462)
+
 
 ## 💻주요 화면 스크린샷, gif
-
-<img width="1280" alt="image" src="https://github.com/Jeongseulho/CSstudy/assets/110578739/8ff27851-c786-4779-81b4-34bd35df7811">
+<img width="1280" alt="272870727-8ff27851-c786-4779-81b4-34bd35df7811" src="https://github.com/khnemu11/InBest/assets/37679352/95107939-709c-44e0-9212-430e027acf39">
 
 ## 마이페이지, 전적
-
-![마이페이지,전적](https://github.com/Jeongseulho/CSstudy/assets/110578739/357a2a9d-204e-4957-9f32-957fcf947dd8)
+![마이페이지,전적](https://github.com/khnemu11/InBest/assets/37679352/e457ac95-538a-47a4-9d61-fd153674ce08)
 
 ### 로그인 회원가입
-
-![로그인회원가입](https://github.com/Jeongseulho/CSstudy/assets/110578739/28403132-da96-4aa0-a29c-8ba05e1c7ef0)
+![로그인, 회원가입](https://github.com/khnemu11/InBest/assets/37679352/06e14c12-c763-45a0-bfd9-27f7eea4c0cf)
 
  <!-- 
 ## 프로필 사진 편집 및 변경
